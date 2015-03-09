@@ -1,4 +1,4 @@
-# Common-Permutation
+# Common Permutation
 
 This is the C++ solution to the Common Permutation problem.
 
